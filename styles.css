@@ -1,11 +1,13 @@
 * {
 	Margin: 0px;
 	font-family: Arial;
-	background-color: rgb(250, 255, 244);
+	background-image: linear-gradient(#96bbdd, #325282);
 }
 
 .navbar {
-	background-color: rgb(103, 136, 63);
-	background: rgb(103, 136, 63);;
+	background: rgb(78, 115, 163);
+	opacity: 90%;
 	text-align: center;
+	font-family: monospace;
+	font-size: 40px;
 }
