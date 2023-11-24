@@ -1,5 +1,11 @@
-#footer {
-    background-color: blanchedalmond;
-    width: 100vw;
-    height: 40px;
+* {
+	Margin: 0px;
+	font-family: Arial;
+	background-color: rgb(250, 255, 244);
+}
+
+.navbar {
+	background-color: rgb(103, 136, 63);
+	background: rgb(103, 136, 63);;
+	text-align: center;
 }
