@@ -1,5 +1,6 @@
 # recipes-website
 A basic recipe website project.
+https://mattrich98.github.io/recipes-website/ (Link to website)
 
 1. First to add necessary content.
 2. Second to customise it with my current odin project knowledge.
