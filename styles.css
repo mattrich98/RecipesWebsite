@@ -22,3 +22,45 @@ hr {
 	opacity: 0;
 
 }
+
+#varRec {
+	font-size: 60px;
+	font-family: 'Courier New', Courier, monospace;
+	text-decoration: underline;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#varRec:hover {
+	opacity: 50%;
+	transition: linear 0.5s;
+
+}
+
+#recipebutton {
+	font-size: 30px;
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+	background: rgb(102, 186, 255);
+	border-radius: 10px;
+}
+
+#recipebutton:hover {
+	opacity: 40%;
+	transition: linear 0.2s;
+	box-shadow: 1px 1px 10px 1px white;
+	background: darkblue
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: white;
+	transition: linear 0.2s;
+}
+
+#linkedin {
+	font-size: 20px;
+}
