@@ -1,7 +1,10 @@
-body {
+html {
+	background: #96bbdd url("./images/forestbackground.jpg") no-repeat;
 
+}
+
+body {
 	font-family: Arial;
-	background: url(./images/forestbackground.jpg);
 }
 
 .navbar {
@@ -16,6 +19,7 @@ body {
 	text-decoration: none;
 	font-family: monospace;
 	font-size: 40px;
+	
 	
 	
 }
