@@ -32,6 +32,8 @@ img {
 #homeimg {
 	width: 150px;
 	margin-top: 10px;
+	border-radius: 10px 10px 0px 0px;
+
 }
 
 p {
@@ -102,18 +104,20 @@ hr {
 	font-family: 'Courier New', Courier, monospace;
 	text-align: center;
 	background: rgb(102, 186, 255);
-	border-radius: 10px;
-	padding-left: 5px;
-	padding-right: 5px;
-	
+	border-radius: 0px 0px 10px 10px;
 	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 150px;
+
+
 }
 
 #recipebutton:hover {
 	opacity: 40%;
 	transition: linear 0.2s;
 	box-shadow: 1px 1px 10px 1px white;
-	background: darkblue
+	background: darkblue;
 }
 
 a {
