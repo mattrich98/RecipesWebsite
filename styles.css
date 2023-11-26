@@ -1,45 +1,9 @@
 body {
 
 	font-family: Arial;
-	background-image: linear-gradient(#96bbdd, #325282);
-	width: 100vw;
-	height: 100vh;
-	overflow: hidden;
-}
+	background: url(./images/forestbackground.jpg);
 
-p {
-	font-size: 20px;
-	background:#96bbdd;
-	border-radius: 10px;
-	margin-left: 10%;
-	margin-right: 10%;
-	opacity: 90%;
-}
-
-ul {
-	font-size: 22px;
-	text-align: center;
 	
-}
-
-ol {
-	font-size: 22px;
-	text-align: center;
-}
-
-.oldiv {
-	background-color: #96bbdd;
-	border-bottom-left-radius: 20px;
-	border-bottom-right-radius: 20px;
-	padding: 5px 5px 5px 60px;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-	
-}
-
-.uldiv {
-	background-image: linear-gradient(#4e73a3, #96bbdd);
-	padding: 5px 5px 5px 60px;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .navbar {
@@ -48,12 +12,54 @@ ol {
 	margin-right: 30%;
 	border-radius: 20px;
 	box-shadow: 1px 1px 10px 1px rgb(30, 37, 139);
-	background: rgb(78, 115, 163);
+	background-image: linear-gradient(#4e73a3, #96bbdd);
 	opacity: 90%;
 	text-align: center;
 	text-decoration: none;
 	font-family: monospace;
 	font-size: 40px;
+}
+
+img {
+	border-radius: 10px;
+}
+
+#homeimg {
+	width: 150px;
+	margin-top: 10px;
+}
+
+p {
+	font-size: 17px;
+	background: #96bbdd;
+	border-radius: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+	opacity: 90%;
+}
+
+ul {
+	font-size: 16px;
+	text-align: left;
+}
+
+.uldiv {
+	background-image: linear-gradient(#4e73a3, #96bbdd);
+	padding: 0px 5px 5px 60px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+ol {
+	font-size: 16px;
+	text-align: left;
+}
+
+.oldiv {
+	background-color: #96bbdd;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding: 0px 5px 5px 60px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 hr {
@@ -62,25 +68,35 @@ hr {
 }
 
 #varRec {
-	font-size: 60px;
+	font-size: 40px;
 	font-family: 'Courier New', Courier, monospace;
 	text-decoration: underline;
 	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 0px;
 }
 
 #varRec:hover {
 	opacity: 50%;
 	transition: linear 0.5s;
 
+	/*background: -webkit-linear-gradient(#4e73a3, #96bbdd);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-transition: linear 0.5s;
+	text-decoration: underline;
+	-webkit-animation-timing-function: ease-in;*/
+
 }
 
 #recipebutton {
-	font-size: 30px;
+	font-size: 20px;
 	font-family: 'Courier New', Courier, monospace;
 	text-align: center;
 	background: rgb(102, 186, 255);
 	border-radius: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+
 }
 
 #recipebutton:hover {
@@ -100,6 +116,19 @@ a:hover {
 }
 
 #github {
-	font-size: 25px;
+	font-size: 18px;
 	text-decoration: none;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+#goback {
+	position: fixed;
+	text-align: center;
+	font-size: 17px;
+	background: #4e73a3;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
 }
