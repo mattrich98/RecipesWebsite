@@ -9,11 +9,17 @@ body {
 
 p {
 	font-size: 20px;
+	background:#96bbdd;
+	border-radius: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+	opacity: 90%;
 }
 
 ul {
 	font-size: 22px;
 	text-align: center;
+	
 }
 
 ol {
@@ -95,4 +101,5 @@ a:hover {
 
 #github {
 	font-size: 25px;
+	text-decoration: none;
 }
