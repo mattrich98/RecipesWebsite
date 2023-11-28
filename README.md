@@ -1,7 +1,7 @@
 # recipes-website
 
 <h3>A basic recipe website project.</h3>
-<p><strong>https://mattrich98.github.io/recipes-website/ (Link to website)</strong></p>
+<p><strong>https://mattrich98.github.io/recipes-website/ (Link to website - Looks best on desktop)</strong></p>
 <br>
 <p>Overall, I'm happy with how the website turned out, although the CSS could have been cleaned up more.</p>
 <p>I stuck to the blue theme and included some recipes that I thought I might want to try. I would like to add more, but also I would like to continue 'The Odin Project' and work on other projects as well.</p>
