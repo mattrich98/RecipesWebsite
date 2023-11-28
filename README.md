@@ -25,4 +25,12 @@
 <li>Descriptive commit messages</li>
 <li>Text elements</li>
 </ul>
+<br>
+<strong>Issues:</strong>
+<ol>
+<li>The background is too large and will load slowly.</li>
+<li>Size is incorrect for mobile devices.</li>
+<li>Images and buttons must not be opaque.</li>
+<li>JavaScript file is not yet used.</li>
+</ol>
 <hr>
