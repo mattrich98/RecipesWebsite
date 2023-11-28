@@ -1,26 +1,34 @@
 # recipes-website
-A basic recipe website project. 
+A basic recipe website project.
+##
 https://mattrich98.github.io/recipes-website/ (Link to website)
-(Completed) 
-
-Overall I am happy with how the website turned out although CSS could be tidier. I stuck with a blue theme and put recipes that I might like to try too. I would add more but I want to continue The Odin Project and work on other projects too.  
-
-I googled some information that I didn't know like yet such as, "display: inline-block;". I wanted to organise the index.html better.
-
-Also sometime in the future I would like to try experimenting with CSS webkits and animations. 
-
-
+##
+##
+Overall, I'm happy with how the website turned out, although the CSS could have been cleaned up more.
+##
+I stuck to the blue theme and included some recipes that I thought I might want to try. I would like to add more, but also I would like to continue 'The Odin Project' and work on other projects as well.
+##
+I googled information that I didn't know yet, such as "display: inline-block;" I wanted to make 'index.html' more organized.
+##
+I would also like to try CSS webkits and animations in the future.
+##
+##
+##
 ---
-1. First to add necessary content.
-2. Second to customise it with my current odin project knowledge.
-3. Later on to go back to this project and improve it. 
-
+Initial Plan
+##
+<ol>
+<li>Add the necessary content.</li>
+<li>To customise it with my current knowledge.</li>
+<li>After further progress with 'The Odin Project' to come back to this project.</li>
+##
+Todo's
+<ul>
+<li>Add HTML Boilerplate</li>
+<li>linking pages and images</li>
+<li>ordered lists and unordered lists</li>
+<li>Various learnt HTML syntax</li>
+<li>Descriptive commit messages</li>
+<li>Text elements</li>
+##
 ---
-Todo's:
-*Add HTML Boilerplate
-*linking pages and images
-*ordered lists and unordered lists
-*Various learnt HTML syntax
-*Descriptive commit messages
-*Text elements
-*Extra things that I'm comfortable with adding
