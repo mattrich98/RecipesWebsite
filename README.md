@@ -1,7 +1,7 @@
 # recipes-website
 
 <h3>A basic recipe website project.</h3>
-<p><strong>https://mattrich98.github.io/recipes-website/ (Link to website - Looks best on desktop)</strong></p>
+<p><strong>https://mattrich98.github.io/recipes-website/ (Link to website)</strong></p>
 <br>
 <p>Overall, I'm happy with how the website turned out, although the CSS could have been cleaned up more.</p>
 <br>
